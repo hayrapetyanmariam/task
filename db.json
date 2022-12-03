@@ -1,0 +1,40 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Հիշիր վաղվա օրդ",
+      "date": "12.01.2022",
+      "time": "19:00",
+      "approve": 0,
+      "booked": false,
+      "image_path": "https://www.tomsarkgh.am/thumbnails/Photo/bigimage/09/06/10/slug-100609.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Խաղն ավարտված է",
+      "date": "12.01.2022",
+      "time": "19:00",
+      "approve": 0,
+      "booked": false,
+      "image_path": "https://api.haytoms.am/upload/big_1247636774.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Եվ նորից գարուն",
+      "date": "12.01.2022",
+      "time": "19:00",
+      "approve": 0,
+      "booked": false,
+      "image_path": "https://www.tomsarkgh.am/thumbnails/Photo/bigimage/11/63/10/slug-106311.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Ճախրող լամպը",
+      "date": "12.01.2022",
+      "time": "19:00",
+      "approve": 0,
+      "booked": false,
+      "image_path": "https://www.tomsarkgh.am/thumbnails/Photo/bigimage/24/33/10/slug-103324.jpg"
+    }
+  ]
+}

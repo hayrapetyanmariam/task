@@ -1,0 +1,39 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 2px solid black;
+    
+  }
+
+  .Booking .approved{
+    background: green;
+    width: 20%;
+    padding: .5rem;
+    font-size: 1rem;
+    margin: .2rem;
+  }
+
+  .Booking .rejected{
+    background: red;
+    width: 20%;
+    padding: .5rem;
+    font-size: 1rem;
+    margin: .2rem;
+  }
+
+  .Booking .approve{
+    font-size: 2rem;
+    color: green;
+  }
+
+  .Booking .reject{
+    font-size: 2rem;
+    color: red;
+  }
+
+  .Booking span{
+    font-size: 2rem;
+  }
